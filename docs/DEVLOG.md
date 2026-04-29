@@ -1,3 +1,4 @@
 - 2026-04-20 style: tweak padding (18974)
 - 2026-04-20 style: card spacing (18930)
 - 2026-04-21 perf: avoid rebuilds (10416)
+- 2026-04-29 style: polish colors (19368)
