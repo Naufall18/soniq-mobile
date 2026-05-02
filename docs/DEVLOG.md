@@ -3,3 +3,4 @@
 - 2026-04-21 perf: avoid rebuilds (10416)
 - 2026-04-29 style: polish colors (19368)
 - 2026-04-30 refactor: rename locals (12722)
+- 2026-05-02 test: add manual checklist (1118)
