@@ -7,3 +7,4 @@
 - 2026-05-02 docs: update devlog (32050)
 - 2026-05-06 docs: update devlog (6183)
 - 2026-05-11 chore: bump metadata (4757)
+- 2026-05-12 test: add manual checklist (3911)
