@@ -9,3 +9,4 @@
 - 2026-05-11 chore: bump metadata (4757)
 - 2026-05-12 test: add manual checklist (3911)
 - 2026-05-13 docs: note follow-ups (20903)
+- 2026-05-13 refactor: rename locals (18341)
