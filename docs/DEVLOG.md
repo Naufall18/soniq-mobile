@@ -12,3 +12,4 @@
 - 2026-05-13 refactor: rename locals (18341)
 - 2026-05-15 chore: cleanup (27304)
 - 2026-05-15 docs: note follow-ups (17210)
+- 2026-05-25 refactor: extract helper (30560)
