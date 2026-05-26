@@ -14,3 +14,4 @@
 - 2026-05-15 docs: note follow-ups (17210)
 - 2026-05-25 refactor: extract helper (30560)
 - 2026-05-26 fix: guard empty title (3060)
+- 2026-05-26 docs: note follow-ups (9576)
