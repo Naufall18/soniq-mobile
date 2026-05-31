@@ -17,3 +17,4 @@
 - 2026-05-26 docs: note follow-ups (9576)
 - 2026-05-26 chore: bump metadata (20492)
 - 2026-05-27 chore: bump metadata (394)
+- 2026-05-31 test: add manual checklist (4885)
