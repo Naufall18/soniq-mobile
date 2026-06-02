@@ -20,3 +20,4 @@
 - 2026-05-31 test: add manual checklist (4885)
 - 2026-05-31 style: card spacing (15986)
 - 2026-06-01 fix: guard empty title (18126)
+- 2026-06-02 docs: note follow-ups (12314)
