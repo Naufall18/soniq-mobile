@@ -22,3 +22,4 @@
 - 2026-06-01 fix: guard empty title (18126)
 - 2026-06-02 docs: note follow-ups (12314)
 - 2026-06-03 chore: bump metadata (8675)
+- 2026-06-10 docs: note follow-ups (2736)
