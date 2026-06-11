@@ -24,3 +24,4 @@
 - 2026-06-03 chore: bump metadata (8675)
 - 2026-06-10 docs: note follow-ups (2736)
 - 2026-06-11 refactor: tidy imports (25349)
+- 2026-06-11 fix: guard empty title (29466)
