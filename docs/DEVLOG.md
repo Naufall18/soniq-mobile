@@ -30,3 +30,4 @@
 - 2026-06-14 refactor: tidy imports (28757)
 - 2026-06-16 test: add manual checklist (7880)
 - 2026-06-23 refactor: rename locals (1024)
+- 2026-06-25 chore: cleanup (9053)
