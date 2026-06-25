@@ -31,3 +31,4 @@
 - 2026-06-16 test: add manual checklist (7880)
 - 2026-06-23 refactor: rename locals (1024)
 - 2026-06-25 chore: cleanup (9053)
+- 2026-06-25 chore: bump metadata (22724)
