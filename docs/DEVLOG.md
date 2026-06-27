@@ -35,3 +35,4 @@
 - 2026-06-26 test: add manual checklist (12184)
 - 2026-06-26 refactor: tidy imports (22592)
 - 2026-06-27 refactor: extract helper (8879)
+- 2026-06-27 perf: avoid rebuilds (26798)
