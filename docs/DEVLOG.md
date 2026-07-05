@@ -38,3 +38,4 @@
 - 2026-06-27 perf: avoid rebuilds (26798)
 - 2026-07-05 refactor: extract helper (17683)
 - 2026-07-05 docs: expand readme (24121)
+- 2026-07-05 docs: note follow-ups (11861)
