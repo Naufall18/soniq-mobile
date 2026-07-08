@@ -16,6 +16,7 @@ class ItemList extends StatefulWidget {
 class _ItemListState extends State<ItemList> {
   final TextEditingController _search = TextEditingController();
   String _query = '';
+  bool _sortAz = false;
 
   @override
   void dispose() {
@@ -47,28 +48,46 @@ class _ItemListState extends State<ItemList> {
                   it.detail.toLowerCase().contains(q))
               .toList();
         }
+        if (_sortAz) {
+          items = List.of(items)
+            ..sort((a, b) =>
+                a.title.toLowerCase().compareTo(b.title.toLowerCase()));
+        }
         return Column(
           children: [
             Padding(
               padding: const EdgeInsets.fromLTRB(12, 12, 12, 6),
-              child: TextField(
-                controller: _search,
-                onChanged: (v) => setState(() => _query = v),
-                decoration: InputDecoration(
-                  hintText: 'Search ${AppConfig.noun.toLowerCase()}s',
-                  prefixIcon: const Icon(Icons.search),
-                  isDense: true,
-                  border: const OutlineInputBorder(),
-                  suffixIcon: _query.isEmpty
-                      ? null
-                      : IconButton(
-                          icon: const Icon(Icons.clear),
-                          onPressed: () => setState(() {
-                            _query = '';
-                            _search.clear();
-                          }),
-                        ),
-                ),
+              child: Row(
+                children: [
+                  Expanded(
+                    child: TextField(
+                      controller: _search,
+                      onChanged: (v) => setState(() => _query = v),
+                      decoration: InputDecoration(
+                        hintText: 'Search ${AppConfig.noun.toLowerCase()}s',
+                        prefixIcon: const Icon(Icons.search),
+                        isDense: true,
+                        border: const OutlineInputBorder(),
+                        suffixIcon: _query.isEmpty
+                            ? null
+                            : IconButton(
+                                icon: const Icon(Icons.clear),
+                                onPressed: () => setState(() {
+                                  _query = '';
+                                  _search.clear();
+                                }),
+                              ),
+                      ),
+                    ),
+                  ),
+                  const SizedBox(width: 8),
+                  IconButton.filledTonal(
+                    tooltip: _sortAz ? 'Sorted A–Z' : 'Sort A–Z',
+                    isSelected: _sortAz,
+                    icon: const Icon(Icons.sort_by_alpha),
+                    onPressed: () => setState(() => _sortAz = !_sortAz),
+                  ),
+                ],
               ),
             ),
             Expanded(child: _buildList(context, items)),
