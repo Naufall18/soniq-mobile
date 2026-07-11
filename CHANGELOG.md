@@ -7,3 +7,4 @@ Notable changes to Soniq.
 - docs: expand changelog notes (2026-07-11-000)
 - docs: record edge cases to handle (2026-07-11-001)
 - docs: note follow-up ideas (2026-07-11-002)
+- chore: tidy project metadata (2026-07-11-003)
