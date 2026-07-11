@@ -2,3 +2,4 @@
 - 2026-07-10: feature work, formatting, and notes.
 - 2026-07-11: docs: expand changelog notes [000]
 - 2026-07-11: docs: record edge cases to handle [001]
+- 2026-07-11: docs: note follow-up ideas [002]
