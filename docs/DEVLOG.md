@@ -7,3 +7,4 @@
 - 2026-07-11: docs: clarify readme run steps [004]
 - 2026-07-13: docs: record edge cases to handle [000]
 - 2026-07-13: docs: expand changelog notes [001]
+- 2026-07-13: docs: clarify readme run steps [002]
