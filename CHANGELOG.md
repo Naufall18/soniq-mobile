@@ -13,3 +13,4 @@ Notable changes to Soniq.
 - docs: expand changelog notes (2026-07-13-001)
 - docs: clarify readme run steps (2026-07-13-002)
 - test: manual QA pass on core flows (2026-07-13-003)
+- docs: devlog — reviewed widget tree (2026-07-13-004)
