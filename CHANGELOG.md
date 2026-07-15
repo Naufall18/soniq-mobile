@@ -16,3 +16,4 @@ Notable changes to Soniq.
 - docs: devlog — reviewed widget tree (2026-07-13-004)
 - docs: clarify readme run steps (2026-07-15-000)
 - docs: devlog — persistence sanity check (2026-07-15-001)
+- docs: devlog — persistence sanity check (2026-07-15-002)
