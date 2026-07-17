@@ -15,3 +15,4 @@
 - 2026-07-15: docs: devlog — persistence sanity check [002]
 - 2026-07-15: chore: tidy project metadata [003]
 - 2026-07-15: docs: clarify readme run steps [004]
+- 2026-07-17: docs: record edge cases to handle [000]
