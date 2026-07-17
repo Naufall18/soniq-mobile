@@ -20,3 +20,4 @@ Notable changes to Soniq.
 - chore: tidy project metadata (2026-07-15-003)
 - docs: clarify readme run steps (2026-07-15-004)
 - docs: record edge cases to handle (2026-07-17-000)
+- docs: note follow-up ideas (2026-07-17-001)
