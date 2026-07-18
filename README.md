@@ -80,3 +80,7 @@ MIT © [Naufall18](https://github.com/Naufall18)
 ## Catatan fitur
 
 Playlist lokal dan mini-player sedang dalam pengembangan.
+
+## Kredit
+
+Direview bersama untuk konsistensi dokumentasi.
