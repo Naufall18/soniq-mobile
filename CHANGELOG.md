@@ -22,3 +22,4 @@ Notable changes to Soniq.
 - docs: record edge cases to handle (2026-07-17-000)
 - docs: note follow-up ideas (2026-07-17-001)
 - docs: devlog — checked state flow (2026-07-18-000)
+- chore: tidy project metadata (2026-07-19-000)

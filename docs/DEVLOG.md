@@ -18,3 +18,4 @@
 - 2026-07-17: docs: record edge cases to handle [000]
 - 2026-07-17: docs: note follow-up ideas [001]
 - 2026-07-18: docs: devlog — checked state flow [000]
+- 2026-07-19: chore: tidy project metadata [000]
