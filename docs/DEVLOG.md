@@ -17,3 +17,4 @@
 - 2026-07-15: docs: clarify readme run steps [004]
 - 2026-07-17: docs: record edge cases to handle [000]
 - 2026-07-17: docs: note follow-up ideas [001]
+- 2026-07-18: docs: devlog — checked state flow [000]
