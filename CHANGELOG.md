@@ -23,3 +23,4 @@ Notable changes to Soniq.
 - docs: note follow-up ideas (2026-07-17-001)
 - docs: devlog — checked state flow (2026-07-18-000)
 - chore: tidy project metadata (2026-07-19-000)
+- style: note spacing adjustments (2026-07-19-001)
