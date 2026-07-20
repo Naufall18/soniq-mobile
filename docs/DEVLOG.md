@@ -20,3 +20,4 @@
 - 2026-07-18: docs: devlog — checked state flow [000]
 - 2026-07-19: chore: tidy project metadata [000]
 - 2026-07-19: style: note spacing adjustments [001]
+- 2026-07-20: docs: expand changelog notes [000]
