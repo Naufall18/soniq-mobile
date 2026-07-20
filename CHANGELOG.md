@@ -26,3 +26,4 @@ Notable changes to Soniq.
 - style: note spacing adjustments (2026-07-19-001)
 - docs: expand changelog notes (2026-07-20-000)
 - docs: devlog — reviewed widget tree (2026-07-20-001)
+- docs: clarify readme run steps (2026-07-20-002)
